@@ -6,6 +6,7 @@
          "backgroundImage": "",
          "btnTitleColor": "ffffff",
          "btnImageColor": "ffffff",
+         "navTitleColor": "ffffff",
          "showLine": "0",
          "lineColor": ""
      }
