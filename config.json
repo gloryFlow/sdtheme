@@ -2,11 +2,11 @@
 	 "globalColor": "",
 	 "globalImage": "",
      "navigation": {
-         "backgroundColor": "ed6767",
+         "backgroundColor": "ed5050",
          "backgroundImage": "",
-         "btnTitleColor": "",
+         "btnTitleColor": "ffffff",
          "btnImageColor": "",
          "showLine": "0",
-        	 "lineColor": ""
+         "lineColor": ""
      }
 }
