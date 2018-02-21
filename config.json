@@ -1,0 +1,12 @@
+{
+	 "globalColor": "",
+	 "globalImage": "",
+     "navigation": {
+         "backgroundColor": "ed6767",
+         "backgroundImage": "",
+         "btnTitleColor": "",
+         "btnImageColor": "",
+         "showLine": "0",
+        	 "lineColor": ""
+     }
+}
