@@ -5,7 +5,7 @@
          "backgroundColor": "ed5050",
          "backgroundImage": "",
          "btnTitleColor": "ffffff",
-         "btnImageColor": "",
+         "btnImageColor": "ffffff",
          "showLine": "0",
          "lineColor": ""
      }
