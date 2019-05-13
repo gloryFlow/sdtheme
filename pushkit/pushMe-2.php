@@ -5,9 +5,9 @@
 <?php
 
 // Put your device token here (without spaces):
-$deviceToken = '796d5c9d2a9a4da8586951aee7d3aad73410c7afa83315bf947c403037d89021';
+$deviceToken = '设备的token';
     
-$passphrase = 'dface1234';
+$passphrase = '证书pem的密码';
 
 // Put your alert message here:
 $message = 'MICHOI_M_CLOUDTALK_';
