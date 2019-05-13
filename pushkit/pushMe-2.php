@@ -35,7 +35,7 @@ $body['aps'] = array(
     'badge' => 10,
 	);
 
-$body['type'] = '7';
+$body['type'] = 'voice';
 
 $body['content'] = '收款0.01元';
 
